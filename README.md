@@ -211,3 +211,10 @@ When submitting a pull request that uses code from an unmerged pull request, ple
     any additional authors (and yourselves) as co-authors of that commit.
   * Use appropriate [keywords](https://help.github.com/en/articles/closing-issues-using-keywords) in your pull request post to
     link to the existing pull request or issue-ticket so that they're automatically closed when your pull request gets merged.
+
+## Local Testing
+[Documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll?platform=mac)
+
+- Run Jekyll Site Locally: ```bundle exec jekyll serve```
+
+- Preview Site in Web Browser: http://localhost:4000
